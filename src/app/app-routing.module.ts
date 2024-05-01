@@ -3,6 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { LinkedinHomePageComponent } from './linkedin-home-page/linkedin-home-page.component';
 
 const routes: Routes = [
+  {path : '' , component : LinkedinHomePageComponent},
   {path : 'linkedin-home-page' , component : LinkedinHomePageComponent},
 ];
 
