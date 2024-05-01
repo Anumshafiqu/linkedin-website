@@ -3,10 +3,12 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { LinkedinHomePageComponent } from './linkedin-home-page/linkedin-home-page.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    LinkedinHomePageComponent
   ],
   imports: [
     BrowserModule,
