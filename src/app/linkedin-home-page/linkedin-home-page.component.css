@@ -322,7 +322,7 @@ font-size: 15px;
     }
     .left-side{
         margin-left: 120px;
-        width: 25rem;
+        width: 27rem;
         height: 480px;
     }
     .image-user-2{
@@ -341,5 +341,108 @@ font-size: 15px;
 }
 .veet-text-2{
     width: 170px;
+    
 }
+.veet-text-1{
+    margin-top: 200px;
+}
+}
+@media screen and (max-width: 700px){
+    .left-side-2{
+        width: 27rem;
+        margin-left: 80px;
+    }
+    .left-side{
+        margin-left: 90px;
+        width: 27rem;
+        height: 480px;
+    }
+    .image-user-2{
+        background-image: url(../../assets/cover-pic.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 27rem;
+    
+    }
+    .image-user-1{
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        margin-left: 200px;
+        margin-bottom: -15px;
+        
+    
+       
+    }
+    .middle-section{
+        margin-left: 80px;
+        width: 28rem;
+    }
+    .veet-text-1{
+        margin-top: 200px;
+    }
+}
+@media screen and (max-width: 650px){
+    .image-6{
+        width: 390px ;
+    }
+    .left-side-2{
+        width: 27rem;
+        margin-left: 80px;
+    }
+    .left-side{
+        margin-left: 80px;
+        width: 27rem;
+        height: 480px;
+    }
+    .image-user-2{
+        background-image: url(../../assets/cover-pic.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 27rem;
+    
+    }
+    .image-user-1{
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        margin-left: 200px;
+        margin-bottom: -15px;
+        
+    
+       
+    }
+    .middle-section{
+        margin-left: 70px;
+        width: 28rem;
+    }
+    .fotter-section{
+        width: 28rem;
+    }
+    .veet-text-1{
+        margin-top: 10px;
+    }
+    .veet-text-3{
+        margin-top: 30px;
+    }
+}
+.veet-text-1{
+    margin-top: 200px;
+}
+@media screen and (max-width: 550px){
+    .middle-section{
+        margin-left: 40px;
+        width: 28rem;
+    }
+    .left-side-2{
+        width: 27rem;
+        margin-left: 40px;
+    }
+    .left-side{
+        margin-left: 50px;
+        width: 27rem;
+        height: 480px;
+    }
 }
