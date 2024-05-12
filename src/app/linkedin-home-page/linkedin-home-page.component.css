@@ -23,7 +23,7 @@
     background-color: #F4F2EE;
 }
 .left-side{
-    margin-left: 100px;
+    margin-left: 150px;
     width: 16rem;
     height: 480px;
 }
@@ -162,6 +162,11 @@ font-size: 15px;
         font-size: 13px;
         width: 230px;
      }
+     .left-side{
+        margin-left: 100px;
+        width: 16rem;
+        height: 480px;
+    }
 }
 @media screen and (max-width: 1150px){
     .image-6{
