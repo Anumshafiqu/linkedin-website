@@ -9,6 +9,11 @@
 
    
 }
+.buttons:hover{
+    border: none;
+    background-color: rgb(243, 243, 248);
+}
+
 .image-user-2{
     background-image: url(../../assets/cover-pic.png);
     background-position: center;
@@ -25,7 +30,7 @@
 .left-side{
     margin-left: 150px;
     width: 16rem;
-    height: 480px;
+    height: 450px;
 }
 .city-2{
     font-size: 18px;
@@ -35,13 +40,16 @@
     font-size: 16px;
     font-weight: 500;
     font-family: sans-serif;
+    cursor: pointer;
 }
 .city-4{
     font-size: 17px;
     font-weight: 500;
+    cursor: pointer;
 }
 .city-5{
 font-size: 15px;
+cursor: pointer;
 }
 .city-6{
     font-size: 18px;
@@ -50,6 +58,9 @@ font-size: 15px;
 .left-side-2{
     width: 16rem;
     margin-top: 65px;
+}
+.myitrm{
+    cursor: pointer;
 }
 .plus-icon{
     font-size: 11px;
@@ -92,8 +103,8 @@ font-size: 15px;
     margin-left: 65px;
 }
 .view-text{
-    margin-left: 50px;
-    font-size: 18px;
+    margin-left: 0px;
+    font-size: 15px;
 }
 .view-text-1{
     margin-left: 150px;
@@ -107,17 +118,21 @@ font-size: 15px;
 }
 .button-search{
     margin-left: 220px;
+    
 }
 .text-newletter{
     font-size: 49px;
 }
 .city-7{
     width: 500px;
+    cursor: pointer;
 }
 
-.fotter-section{
-    margin-bottom: -180px;
-}
+ .fotter-section{
+ margin-bottom: -180px; 
+
+
+} 
 .veet-text{
     margin-top: 100px;
 }
@@ -165,7 +180,7 @@ font-size: 15px;
      .left-side{
         margin-left: 100px;
         width: 16rem;
-        height: 480px;
+        height: 450px;
     }
 }
 @media screen and (max-width: 1150px){
@@ -193,7 +208,7 @@ font-size: 15px;
     }
     .left-side{
         margin-left: 60px;
-        height: 480px;
+        height: 450px;
     }
 
     .image-user-2{
@@ -282,7 +297,7 @@ font-size: 15px;
     .left-side{
         margin-left: 120px;
         width: 33rem;
-        height: 480px;
+        height: 450px;
     }
     .image-user-2{
         background-image: url(../../assets/cover-pic.png);
@@ -328,7 +343,7 @@ font-size: 15px;
     .left-side{
         margin-left: 120px;
         width: 27rem;
-        height: 480px;
+        height: 450px;
     }
     .image-user-2{
         background-image: url(../../assets/cover-pic.png);
@@ -360,7 +375,7 @@ font-size: 15px;
     .left-side{
         margin-left: 90px;
         width: 27rem;
-        height: 480px;
+        height: 450px;
     }
     .image-user-2{
         background-image: url(../../assets/cover-pic.png);
@@ -399,7 +414,7 @@ font-size: 15px;
     .left-side{
         margin-left: 80px;
         width: 27rem;
-        height: 480px;
+        height: 450px;
     }
     .image-user-2{
         background-image: url(../../assets/cover-pic.png);
@@ -448,6 +463,6 @@ font-size: 15px;
     .left-side{
         margin-left: 50px;
         width: 27rem;
-        height: 480px;
+        height: 450px;
     }
 }

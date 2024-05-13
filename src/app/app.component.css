@@ -1,6 +1,5 @@
 
 /* mdb image */
-
 .imgae{
     margin-left: 50px;
 }
@@ -20,12 +19,14 @@ width: 220px;
 .image-1{
     height: 35px;
     width: 35px;
+    cursor: pointer;
 }
 .iamges-user-1{
     height: 40px;
     width: 40px;
     border-radius: 50%;
     top: 0;
+    cursor: pointer;
 }
 @media screen and (max-width: 1300px){
     .city-2{

@@ -26,7 +26,7 @@
                     <p class="mx-3 text-dark fw-medium city-5"><i class="fa fa-square mx-2 text-warning" aria-hidden="true"></i>Access exclusive tools <br> &nbsp;&insight</p>
                 </div>
                 <hr>
-                <p class="mx-3 fw-medium"><i class="fa fa-bookmark text-dark mx-2" aria-hidden="true"></i>My items</p>
+                <p class="mx-3 fw-medium myitrm"><i class="fa fa-bookmark text-dark mx-2" aria-hidden="true"></i>My items</p>
                 <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-3 col-sm-12 bg-white shadow-sm p-0 left-side-2 rounded  three-button">
                     <div class="mx-3">
                         <a href="#" class="text-primary  city-6 text-decoration-none fw-medium ">Gruops</a>
@@ -89,10 +89,10 @@
          </div>
          <hr>
          <div class="d-flex mt-3 justify-content-between">
-            <p class="fw-medium fs-6"><i class="fa fa-thumbs-up mx-1 fw-medium fs-6" aria-hidden="true"></i>Like</p>
-            <p class="fw-medium fs-6"><i class="fa fa-comment mx-1  fw-medium fs-6" aria-hidden="true"></i>Comment</p>
-            <p class="fw-medium fs-6"><i class="fa fa-share mx-1" aria-hidden="true"></i>Share</p>
-            <p class="fw-medium fs-6"><i class="fa fa-paper-plane fs-6" aria-hidden="true"></i>Send</p>
+            <button class="fw-medium fs-6 btn  buttons"><i class="fa fa-thumbs-up mx-1 fw-medium fs-6" aria-hidden="true"></i>Like</button>
+            <button class="fw-medium fs-6 btn  buttons"><i class="fa fa-comment mx-1  fw-medium fs-6" aria-hidden="true"></i>Comment</button>
+            <button class="fw-medium fs-6  btn  buttons"><i class="fa fa-share mx-1" aria-hidden="true"></i>Share</button>
+            <button class="fw-medium fs-6 btn  buttons"><i class="fa fa-paper-plane fs-6" aria-hidden="true"></i>Send</button>
          </div>
 
 
@@ -136,10 +136,8 @@
                     
                                            
                                             </div>
-                                          <div class="d-flex">
-                                            <p class="text-center view-text fw-medium text-secondary">View all
-                                                recomendations</p>
-                                                <i class="fa fa-arrow-right text-secondary mx-3  fs-6 mt-1" aria-hidden="true"></i>
+                                          <div class="d-flex flex-row mx-2">
+                                            <button class=" view-text fw-medium text-secondary btn">View all recomendations<i class="fa fa-arrow-right text-secondary mx-3  fs-6 mt-1" aria-hidden="true"></i></button>
                                           </div>
 
                 </div>
@@ -164,7 +162,6 @@
 
 
 
-
         
 
     </div>
@@ -172,12 +169,14 @@
     <div class="container">
         <div class="row">
             <div class="col-xxl-11 col-xl-11 col-lg-11 col-md-11 col-sm-11 mt-5 bg-white shadow-sm mx-3 fotter-section">
-                <div class="bg-white pt-5 " >
-                    <h1 class="text-primary fw-bolder text-center pt-3 text-newletter">Subscribe to our Newsletter</h1>
-                    <div class="d-flex flex-row button-search mt-5 mb-5">
-                        <input type="search" name="" id="" placeholder="Enter your Email" class="border-primary p-3 city-7">
-                        <button class="btn btn-primary p-3 rounded-0">Subscribe</button>
-                    </div>
+<div class="searchitem">
+    <div class="bg-white pt-5 " >
+        <h1 class="text-primary fw-bolder text-center pt-3 text-newletter">Subscribe to our Newsletter</h1>
+        <div class="d-flex flex-row button-search mt-5 mb-5">
+            <input class="rounded-0 border-primary p-3 city-7" type="search" placeholder="search" aria-label="Search"/>
+            <button class="btn btn-primary p-3 rounded-0">Subscribe</button>
+        </div>
+</div>
                 </div>
 
                 
@@ -187,6 +186,7 @@
     <div class="container-fluid bg-primary main-section h-50 p-5 ">
         <div class="row">
             <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-6 p-5 mt-5 veet-text-1">
+
                 <h1 class="veet-text text-white fw-semibold">Vettspace</h1>
                 <p class="veet-text-2 text-white mt-4 fs-6">We are a professional platform designed to help job seekers<br> achieve success in finding the ideal career and assist employers hire the right candidate for a job.</p>
                 <div class=" ">
