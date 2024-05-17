@@ -6,12 +6,18 @@ import { AppComponent } from './app.component';
 import { LinkedinHomePageComponent } from './linkedin-home-page/linkedin-home-page.component';
 import { AngularFontAwesomeModule } from 'angular-font-awesome';
 import { MesssagePageComponent } from './messsage-page/messsage-page.component';
+import { NetworkPageComponent } from './network-page/network-page.component';
+import { JobsPageComponent } from './jobs-page/jobs-page.component';
+import { NotificationPageComponent } from './notification-page/notification-page.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LinkedinHomePageComponent,
-    MesssagePageComponent
+    MesssagePageComponent,
+    NetworkPageComponent,
+    JobsPageComponent,
+    NotificationPageComponent
   ],
   imports: [
     BrowserModule,

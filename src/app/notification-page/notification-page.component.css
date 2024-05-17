@@ -1,0 +1,321 @@
+
+.image-mic-2{
+    height: 60px;
+    width: 60px;
+}
+.text-1{
+    font-size: 14px;
+}
+.text-2{
+    font-size: 13px;
+    margin-left: 390px;
+}
+.linkedin-1{
+    width: 260px;
+}
+.left-side-3{
+    margin-top: 80px;
+}
+.left-side-4{
+    margin-top: 100px;
+}
+
+.icon-1{
+    font-size: 12px;
+}
+.left-side-5{
+    margin-top: 20px;
+}
+.main-section{
+    background-color: #f2f4ee;
+}
+.fotter-section{
+    margin-top:200px;
+}
+.icon-2{
+    font-size: 20px;
+}
+.footer-text{
+    font-size: 17px;
+    font-weight: 500;
+}
+
+
+.fotter-section{
+    margin-bottom: -180px;
+    margin-top: 100px;
+}
+.veet-text{
+    margin-top: 150px;
+}
+
+.veet-text-3{
+    margin-top: 250px;
+}
+.city-7{
+    width: 500px;
+    margin-left: 180px;
+}
+.veet-text-1{
+    margin-top: 250px;
+} 
+
+
+/* media quries */
+
+@media screen and (max-width: 1300px){
+    .textarea-message{
+        width: 500px;
+    }
+.button-send{
+    margin-left: 150px;
+}
+.city-7{
+    width: 500px;
+    margin-left: 80px;
+}
+.image-2{
+    margin-left: 0px;
+}
+.left-side{
+    margin-left: 0px;
+}
+.text-2{
+    font-size: 13px;
+    margin-left: 290px;
+}
+
+}
+@media screen and (max-width: 1200px){
+
+    .veet-text-2{
+        font-size: 13px;
+        width: 230px;
+     }
+     .veet-text{
+        margin-top: 100px;
+     }
+     .textarea-message{
+        width: 370px;
+    }
+    .veet-text-3{
+        margin-top: 200px;
+    }
+    .veet-text-1{
+        margin-top: 200px;
+    } 
+    .card-3{
+        margin-top: 8px;
+    }
+ 
+}
+@media screen and (max-width: 1150px){
+
+    .veet-text-3{
+        margin-top: 0px;
+        font-size: 23px;
+        margin-left: 10px;
+    }
+    .footer-text{
+        font-size: 17px;
+        font-weight: 500;
+        margin-top: 20px;
+    }
+    .veet-text-3{
+        margin-top: 200px;
+    }
+ 
+    .card-3{
+        margin-top: 8px;
+    }
+    .left-side{
+        margin-left: 0px;
+    }
+  
+
+}
+@media screen and (max-width: 1100px){
+    .left-side{
+        margin-left: 0px;
+    }
+    .veet-text-3{
+        margin-top: 20px;
+        font-size: 23px;
+        margin-left: 10px;
+    }
+    .footer-text{
+        font-size: 17px;
+        font-weight: 500;
+        margin-top: 20px;
+    }
+    .veet-text-3{
+        margin-top: 200px;
+    }
+    .veet-text-2{
+       font-size: 12px;
+       width: 210px;
+       margin-top: 200px;
+    }
+    .textarea-message{
+        width: 370px;
+    }
+.button-send{
+    margin-left: 100px;
+}
+.city-7{
+    margin-left: 70px;
+}
+.card-3{
+    margin-top: 8px;
+}
+.linkedin-1{
+    width: 260px;
+    margin-top: 0px;
+}
+
+}
+@media screen and (max-width: 1050px){
+    .image-6{
+        width: 360px ;
+    }
+    .veet-text-3{
+        margin-top: 190px;
+    }
+    .linkedin-1{
+        width: 260px;
+        margin-top: 0px;
+    }
+    .linkedin-1{
+        width: 240px;
+        margin-top: 0px;
+    }
+ 
+}
+@media screen and (max-width: 1000px){
+
+    .veet-text-3{
+        margin-top: 0px;
+    }
+    .text-1{
+        font-size: 14px;
+    }
+    .card-3{
+        margin-top: 8px;
+    }
+    .linkedin-1{
+        width: 260px;
+        margin-top: 0px;
+    }
+}
+@media screen and (max-width: 990px){
+
+    .city-7{
+        width: 500px;
+    }
+    .image-2{
+        margin-left: 200px;
+        width: 300px;
+        margin-top: 0px;
+    } 
+    .city-7{
+        margin-left: 20px;
+    }
+    .left-side-2{
+        margin-left: 240px;
+    }
+    .image-4{
+        height: 60px;
+        width: 60px;
+        margin-left: 200px;
+    }
+    .image-2{
+        height: 30px;
+        width: 30px;
+        border-radius: 50%;
+        margin: 0px;
+    }
+    .linkedin-1{
+        width: 300px;
+        margin-left: 250px;
+        margin-top: 0px;
+    }
+    .text-2{
+        font-size: 13px;
+        margin-left: 270px;
+    }
+
+    .left-side-3{
+        margin-top: 80px;
+    }
+    .left-side-4{
+        margin-top: 20px;
+    }
+    .left-side-5{
+        margin-top: 20px;
+    }
+    .text-setting-1{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width: 850px){
+}
+@media screen and (max-width: 800px){
+
+.veet-text-2{
+    width: 170px;
+}
+.city-7{
+    width: 500px;
+}
+/* .veet-text-1{
+    margin-top: 200px;
+} */
+.button-search{
+    margin-left: 0px;
+}
+.city-7{
+    margin-left: 0px;
+ }
+ .left-side-2{
+    margin-left: 0px;
+    width: 35rem;
+}
+.left-side-3{
+    margin-top: 0px;
+}
+}
+@media screen and (max-width: 600px){
+
+
+ .city-7{
+    margin-left: 0px;
+ }
+.button-search{
+    margin-left: 0px;
+}
+.veet-text-2{
+    width: 170px;
+    
+} 
+}
+@media screen and (max-width: 770px){
+    .veet-text-1{
+        margin-top: 200px;
+    }
+     .textarea-message{
+    width: 470px;
+ } 
+ .linkedin-1{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 0px;
+}
+}
+@media screen and (max-width: 650px){
+    .fotter-section{
+        width: 28rem;
+    }
+    .veet-text-3{
+        margin-top: 30px;
+    }
+}

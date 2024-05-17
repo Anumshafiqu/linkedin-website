@@ -1,0 +1,393 @@
+
+.main-section{
+    background-color: #f2f4ee;
+}
+.left-side{
+    height: 560px;
+}
+.my-network{
+    font-size: 19px;
+    font-weight: normal;
+    font-family: sans-serif;
+}
+.connect-iecon{
+    font-size: 20px;
+    font-weight: normal;
+}
+.icons-1{
+    font-size: 20px;
+}
+.city-1{
+    font-size: 20px;
+    font-weight: normal;
+}
+.city-2{
+    font-size: 16px;
+    font-weight: normal;
+}
+
+
+.image-1{
+    background-image: url(../../assets/c1.jpeg);
+    height: 65px;
+    border-radius: 9px 9px 0px 0px  ;
+}
+.image-2{
+    height: 70px;
+    width: 70px;
+    margin-bottom: -110px;
+    border-radius: 50%;
+}
+.city-3{
+    font-size: 22px;
+}
+.city-4{
+    margin-top: 60px;
+}
+.city-5{
+    font-size: 14px;
+}
+/* .card-1:hover{
+box-shadow: 20px 20px 20px lavender;
+} */
+
+.hoverable-large-shadow {
+    transition: box-shadow 0.3s ease;
+  }
+
+  .hoverable-large-shadow:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  }
+  .city-8{
+    font-size: 20px;
+    font-weight: normal;
+  }
+  .image-3{
+    background-image: url(../../assets/groupC1.jpeg);
+    height: 85px;
+    border-radius: 9px 9px 0px 0px  ; 
+  }
+  .image-4{
+    height: 130px;
+    width: 130px;
+    margin-bottom: -110px;
+  }
+  .city-9{
+    font-size: 21px;
+  }
+  .city-10{
+    margin-top: 80px;
+  }
+  .image-5{
+height: 130px;
+background-image: url(../../assets/eventC1.png);
+border-radius: 10px 10px 0px 0px  ; 
+  }
+.city11{
+    font-size: 20px;
+}
+.city-13{
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.image-8{
+    height: 65px;
+    width: 65px;
+    margin-bottom: -115px;
+    border-radius: 3px 3px 0px 0px;
+}
+.image-7{
+    height: 80px;
+background-image: url(../../assets/cover-pic2.jfif);
+border-radius: 10px 10px 0px 0px  ; 
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.image-9{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+}
+.city-14{
+    font-size: 15px;
+    font-weight: normal;
+}
+.icon-1{
+    font-size: 12px;
+}
+.icon-2{
+    font-size: 20px;
+}
+.footer-text{
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.top-main{
+    height: 62px;
+    margin-top: 50px;
+}
+.fotter-section{
+    margin-bottom: -180px;
+    margin-top: 100px;
+}
+.veet-text{
+    margin-top: 150px;
+}
+
+.veet-text-3{
+    margin-top: 250px;
+}
+.city-7{
+    width: 500px;
+    margin-left: 180px;
+}
+.veet-text-1{
+    margin-top: 250px;
+} 
+
+
+/* media quries */
+
+@media screen and (max-width: 1300px){
+    .textarea-message{
+        width: 500px;
+    }
+.button-send{
+    margin-left: 150px;
+}
+.city-7{
+    width: 500px;
+    margin-left: 80px;
+}
+.image-2{
+    margin-left: 0px;
+}
+
+
+
+}
+@media screen and (max-width: 1200px){
+
+    .veet-text-2{
+        font-size: 13px;
+        width: 230px;
+     }
+     .veet-text{
+        margin-top: 100px;
+     }
+     .textarea-message{
+        width: 370px;
+    }
+    .veet-text-3{
+        margin-top: 300px;
+    }
+    .veet-text-1{
+        margin-top: 200px;
+    } 
+    .card-3{
+        margin-top: 8px;
+
+    }
+
+
+}
+@media screen and (max-width: 1150px){
+
+    .veet-text-3{
+        margin-top: 0px;
+        font-size: 23px;
+        margin-left: 10px;
+    }
+    .footer-text{
+        font-size: 17px;
+        font-weight: 500;
+        margin-top: 20px;
+    }
+    .veet-text-3{
+        margin-top: 200px;
+    }
+ 
+    .card-3{
+        margin-top: 8px;
+    }
+
+}
+
+@media screen and (max-width: 1100px){
+
+    .veet-text-3{
+        margin-top: 200px;
+        font-size: 23px;
+        margin-left: 10px;
+    }
+    .footer-text{
+        font-size: 17px;
+        font-weight: 500;
+        margin-top: 20px;
+    }
+    .veet-text-3{
+        margin-top: 200px;
+    }
+    .veet-text-2{
+       font-size: 12px;
+       width: 210px;
+       margin-top: 200px;
+    }
+    .textarea-message{
+        width: 370px;
+    }
+.button-send{
+    margin-left: 100px;
+}
+.city-7{
+    margin-left: 70px;
+}
+.card-3{
+    margin-top: 8px;
+}
+
+
+
+
+}
+@media screen and (max-width: 1050px){
+    .image-6{
+        width: 360px ;
+    }
+    .veet-text-3{
+        margin-top: 190px;
+    }
+    .card-3{
+        margin-top: 8px;
+    }
+ 
+}
+@media screen and (max-width: 1000px){
+
+    .veet-text-3{
+        margin-top: 200px;
+    }
+    .text-1{
+        font-size: 14px;
+    }
+    .card-3{
+        margin-top: 8px;
+    }
+
+
+
+}
+@media screen and (max-width: 990px){
+
+    .city-7{
+        width: 500px;
+    }
+    .image-2{
+        margin-left: 200px;
+        width: 300px;
+        margin-top: 0px;
+    } 
+    .city-7{
+        margin-left: 20px;
+    }
+    .image-2{
+        height: 70px;
+        width: 70px;
+        margin-bottom: -110px;
+        border-radius: 50%;
+    }
+    .card-3{
+        margin-top: 8px;
+    }
+    .top-main{
+        height: 62px;
+        margin-top: 0px;
+    }
+ 
+
+    
+
+ 
+    
+
+
+}
+@media screen and (max-width: 850px){
+ 
+
+}
+@media screen and (max-width: 800px){
+
+.veet-text-2{
+    width: 170px;
+}
+.city-7{
+    width: 500px;
+}
+/* .veet-text-1{
+    margin-top: 200px;
+} */
+.button-search{
+    margin-left: 0px;
+}
+.city-7{
+    margin-left: 0px;
+ }
+ .image-2{
+    margin-left: 180px;
+    width: 300px;
+    margin-top: 0px;
+}
+
+
+
+}
+@media screen and (max-width: 600px){
+
+
+ .city-7{
+    margin-left: 0px;
+ }
+.button-search{
+    margin-left: 0px;
+}
+.veet-text-2{
+    width: 170px;
+    
+} 
+
+
+
+}
+@media screen and (max-width: 770px){
+
+    .veet-text-1{
+        margin-top: 200px;
+    }
+     .textarea-message{
+    width: 470px;
+ } 
+ .button-send{
+    margin-left: 250px;
+ }
+ .image-2{
+    height: 70px;
+    width: 70px;
+    margin-bottom: -110px;
+    border-radius: 50%;
+}
+
+ 
+}
+@media screen and (max-width: 650px){
+
+    .fotter-section{
+        width: 28rem;
+    }
+
+    .veet-text-3{
+        margin-top: 30px;
+    }
+}

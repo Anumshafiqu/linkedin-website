@@ -1,0 +1,305 @@
+
+.main-section{
+    background-color: #f2f4ee;
+}
+.icons{
+    font-size: 13px;
+}
+.left-side{
+    margin-left: 60px;
+}
+.buttons-1{
+    width: 200px;
+    margin-left: 60px;
+}
+.text-1{
+    font-size: 14px;
+}
+.text-2{
+    font-size: 16px;
+    font-weight: normal;
+}
+.image-1{
+    height: 70px;
+    width: 70px;
+}
+.text-3{
+    font-size: 15px;
+    font-weight: 500;
+}
+.image-2{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.text-4{
+    font-size: 14px;
+}
+.buttons{
+    font-size: 16px;
+}
+.text-5{
+    font-size: 17px;
+}
+.text-6{
+    font-size: 14px;
+    font-weight: normal;
+}
+.image-4{
+    height: 60px;
+    width: 60px;
+}
+.text-7{
+    color: plum;
+}
+
+
+.icon-1{
+    font-size: 12px;
+}
+.icon-2{
+    font-size: 20px;
+}
+.footer-text{
+    font-size: 17px;
+    font-weight: 500;
+}
+
+
+.fotter-section{
+    margin-bottom: -180px;
+    margin-top: 100px;
+}
+.veet-text{
+    margin-top: 150px;
+}
+
+.veet-text-3{
+    margin-top: 250px;
+}
+.city-7{
+    width: 500px;
+    margin-left: 180px;
+}
+.veet-text-1{
+    margin-top: 250px;
+} 
+
+
+/* media quries */
+
+@media screen and (max-width: 1300px){
+    .textarea-message{
+        width: 500px;
+    }
+.button-send{
+    margin-left: 150px;
+}
+.city-7{
+    width: 500px;
+    margin-left: 80px;
+}
+.image-2{
+    margin-left: 0px;
+}
+.left-side{
+    margin-left: 0px;
+}
+.buttons-1{
+    width: 200px;
+    margin-left: 0px;
+}
+}
+@media screen and (max-width: 1200px){
+
+    .veet-text-2{
+        font-size: 13px;
+        width: 230px;
+     }
+     .veet-text{
+        margin-top: 100px;
+     }
+     .textarea-message{
+        width: 370px;
+    }
+    .veet-text-3{
+        margin-top: 200px;
+    }
+    .veet-text-1{
+        margin-top: 200px;
+    } 
+    .card-3{
+        margin-top: 8px;
+    }
+}
+@media screen and (max-width: 1150px){
+
+    .veet-text-3{
+        margin-top: 0px;
+        font-size: 23px;
+        margin-left: 10px;
+    }
+    .footer-text{
+        font-size: 17px;
+        font-weight: 500;
+        margin-top: 20px;
+    }
+    .veet-text-3{
+        margin-top: 200px;
+    }
+ 
+    .card-3{
+        margin-top: 8px;
+    }
+    .left-side{
+        margin-left: 0px;
+    }
+
+}
+@media screen and (max-width: 1100px){
+    .left-side{
+        margin-left: 0px;
+    }
+    .veet-text-3{
+        margin-top: 20px;
+        font-size: 23px;
+        margin-left: 10px;
+    }
+    .footer-text{
+        font-size: 17px;
+        font-weight: 500;
+        margin-top: 20px;
+    }
+    .veet-text-3{
+        margin-top: 200px;
+    }
+    .veet-text-2{
+       font-size: 12px;
+       width: 210px;
+       margin-top: 200px;
+    }
+    .textarea-message{
+        width: 370px;
+    }
+.button-send{
+    margin-left: 100px;
+}
+.city-7{
+    margin-left: 70px;
+}
+.card-3{
+    margin-top: 8px;
+}
+}
+@media screen and (max-width: 1050px){
+    .image-6{
+        width: 360px ;
+    }
+    .veet-text-3{
+        margin-top: 190px;
+    }
+}
+@media screen and (max-width: 1000px){
+
+    .veet-text-3{
+        margin-top: 0px;
+    }
+    .text-1{
+        font-size: 14px;
+    }
+    .card-3{
+        margin-top: 8px;
+    }
+}
+@media screen and (max-width: 990px){
+
+    .city-7{
+        width: 500px;
+    }
+    .image-2{
+        margin-left: 200px;
+        width: 300px;
+        margin-top: 0px;
+    } 
+    .city-7{
+        margin-left: 20px;
+    }
+    .left-side-2{
+        margin-left: 240px;
+    }
+    .image-4{
+        height: 60px;
+        width: 60px;
+        margin-left: 200px;
+    }
+    .image-2{
+        height: 30px;
+        width: 30px;
+        border-radius: 50%;
+        margin: 0px;
+    }
+}
+@media screen and (max-width: 850px){
+}
+@media screen and (max-width: 800px){
+
+.veet-text-2{
+    width: 170px;
+}
+.city-7{
+    width: 500px;
+}
+/* .veet-text-1{
+    margin-top: 200px;
+} */
+.button-search{
+    margin-left: 0px;
+}
+.city-7{
+    margin-left: 0px;
+ }
+ .left-side-2{
+    margin-left: 0px;
+    width: 35rem;
+}
+}
+@media screen and (max-width: 600px){
+
+
+ .city-7{
+    margin-left: 0px;
+ }
+.button-search{
+    margin-left: 0px;
+}
+.veet-text-2{
+    width: 170px;
+    
+} 
+}
+@media screen and (max-width: 770px){
+    .veet-text-1{
+        margin-top: 200px;
+    }
+     .textarea-message{
+    width: 470px;
+ } 
+ .left-side-1{
+    height: 400px;
+ }
+ .left-side-3{
+    margin-top: 50px;
+ }
+ .buttons-1{
+    width: 520px;
+    margin-left: 0px;
+}
+}
+@media screen and (max-width: 650px){
+    .fotter-section{
+        width: 28rem;
+    }
+    .veet-text-3{
+        margin-top: 30px;
+    }
+}
